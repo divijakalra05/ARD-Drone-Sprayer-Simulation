@@ -23,6 +23,17 @@ A Python + Pygame based simulation of an agricultural drone used for pesticide s
 
 Demo: https://youtu.be/rXtvIowEqDk
 
+## Screenshots
+
+### Drone Simulation
+![Drone](sim1.png)
+
+### Spray System
+![Spray](sim2.png)
+
+### Crop Interaction
+![Crop](sim3.png)
+
 ## Future Improvements
 - AI-based crop analysis
 - OpenCV integration
